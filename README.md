@@ -137,24 +137,6 @@ HR-Analytics-SQL-PowerBI/
 
 ---
 
-## 📷 Dashboard Preview
-
-> **Add screenshots of your Power BI dashboard here after uploading them to the repository.**
-
-Example:
-
-```
-Images/
-    Dashboard.png
-```
-
-Then display it using:
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
-
----
 
 ## 📚 SQL Concepts Used
 
@@ -208,16 +190,4 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👨‍💻 Author
 
-**Rahul Choudhary**
-
-B.Tech Electronics & Communication Engineering (SVNIT Surat)
-
-**LinkedIn:** *Add your LinkedIn profile*
-
-**GitHub:** https://github.com/Rahulchoudhary-14
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
